@@ -746,7 +746,7 @@ i{
 .ball1{
     position: absolute;
     right:112px;
-    top:95px;
+    top:107px;
 }
 
 .box1{
@@ -755,13 +755,13 @@ i{
     background-color:black;
     position: absolute;
     right:92px;
-    top:98px;
+    top:110px;
 }
 
 .ball2{
     position: absolute;
     right:112px;
-    top:95px;
+    top:107px;
     
 }
 
@@ -770,14 +770,14 @@ i{
     height:5px;
     background-color:black;
     position: absolute;
-    right:93px;
-    top:98px;
+    right:90px;
+    top:110px;
 }
 
 .ball3{
     position: absolute;
     right:140px;
-    top:93px;
+    top:105px;
 }
 
 .box3{
@@ -786,13 +786,13 @@ i{
     background-color:black;
     position: absolute;
     right:118px;
-    top:98px;
+    top:110px;
 }
 
 .ball4{
     position: absolute;
     right:112px;
-    top:95px;
+    top:107px;
 }
 
 .box4{
@@ -800,14 +800,14 @@ i{
     height:5px;
     background-color:black;
     position: absolute;
-    right:100px;
-    top:98px;
+    right:97px;
+    top:110px;
 }
 
 .ball5{
     position: absolute;
     right:135px;
-    top:95px;
+    top:107px;
 }
 
 .box5{
@@ -816,13 +816,13 @@ i{
     background-color:black;
     position: absolute;
     right:118px;
-    top:99px;
+    top:110px;
 }
 
 .ball6{
     position: absolute;
     right:136px;
-    top:92px;
+    top:104px;
 }
 
 .box6{
@@ -831,7 +831,7 @@ i{
     background-color:black;
     position: absolute;
     right:118px;
-    top:99px;
+    top:110px;
 }
 
 
@@ -1019,7 +1019,7 @@ i{
 
     .box2{
         right: 69px;
-        top: 76px;
+        top: 74px;
     }
 
     .ball3{
